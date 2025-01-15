@@ -80,9 +80,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Computer Network Engineering Technology Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/EkiZR" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/" },
-  { icon: Instagram, link: "https://www.instagram.com/ekizr_/?hl=id" }
+  { icon: Github, link: "https://github.com/Xeyn701" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/rio-imam-pradana-8b97a6298/" },
+  { icon: Instagram, link: "https://www.instagram.com/rio.prdnn/?hl=id" }
 ];
 
 const Home = () => {
